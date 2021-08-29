@@ -7,4 +7,10 @@ A graphical user interface (GUI) is a collection of interactive visual elements 
 6. PyGtkject
 7. PyGUI
 8. PySimpleGUI
+9. Formlayout 
+10. OpenGL
+11. PyWebview 
+12. Pyglet
+13. Pyxel
+14. guietta 
 
